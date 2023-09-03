@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-851.5725578290942
+3102.027384109495
  22
-350.3304826512096
+2044.98004483234
  13
 0
  23
@@ -1143,7 +1143,7 @@ AcDbViewportTableRecord
  37
 0
  40
-1255.800037811259
+7578.216309279289
  41
 1.477467811158798
  42
@@ -2257,7 +2257,7 @@ AcDbLayerTableRecord
   2
 couple 3
  70
-    0
+    1
  62
     7
   6
@@ -2279,7 +2279,7 @@ AcDbLayerTableRecord
   2
 couple3-quotes
  70
-    0
+    1
  62
   253
 420
@@ -2303,7 +2303,7 @@ AcDbLayerTableRecord
   2
 profiloscad1
  70
-    1
+    0
  62
     7
   6
